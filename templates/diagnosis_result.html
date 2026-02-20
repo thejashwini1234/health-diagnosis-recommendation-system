@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diagnosis Report</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f5f7fa;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 30px;
+        }
+
+        .remedy-box {
+            background: white;
+            width: 210mm;  /* A4 width */
+            min-height: 297mm; /* A4 height */
+            padding: 30px 40px;
+            border: 1px solid #ccc;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+            font-size: 1.8rem;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .patient-info p {
+            font-size: 1.2rem;
+            margin: 6px 0;
+        }
+
+        h3 {
+            margin-top: 25px;
+            font-size: 1.5rem;
+            color: #34495e;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 6px;
+        }
+
+        .diagnosis {
+            margin-top: 15px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background: #fafafa;
+        }
+
+        .disease {
+            font-size: 1.2rem;
+            color: #e74c3c;
+        }
+
+        .remedies-label {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        ul {
+            margin: 8px 0 0 20px;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+            
+        }
+
+        /* Buttons */
+        .print-btn, .back-home {
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .print-btn {
+            background: #3498db;
+            color: white;
+            border: none;
+        }
+
+        .print-btn:hover {
+            background: #217dbb;
+        }
+
+        .back-home {
+            background: #2ecc71;
+            color: white;
+            margin-left: 10px;
+        }
+
+        .back-home:hover {
+            background: #27ae60;
+        }
+
+        /* Hide buttons when printing */
+        @media print {
+            .print-btn, .back-home {
+                display: none;
+            }
+            body {
+                background: white;
+                padding: 0;
+            }
+            .remedy-box {
+                box-shadow: none;
+                border: none;
+                width: 100%;
+                min-height: auto;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+   <div class="remedy-box">
+        <h2>Diagnosis Report</h2>
+        <div class="patient-info">
+            <p><strong>Name:</strong> {{ name }}</p>
+            <p><strong>Age:</strong> {{ age }}</p>
+            <p><strong>Selected Symptoms:</strong> {{ selected_symptoms | join(", ") }}</p>
+        </div>
+
+        <h3>Possible Diagnoses:</h3>
+        {% for r in results %}
+            <div class="diagnosis">
+                <p class="disease"><strong>Disease:</strong> {{ r.disease }}</p>
+                <p class="remedies-label"><strong>Remedies:</strong></p>
+                <ul>
+                    {% for remedy in r.remedies %}
+                        <li>{{ remedy }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        {% endfor %}
+
+        <!-- Buttons -->
+        <button class="print-btn" onclick="window.print()">🖨 Print Report</button>
+        <a href="{{ url_for('home') }}" class="back-home">
+            <img src="https://img.icons8.com/ios-filled/20/ffffff/home.png" alt="Home Icon" style="vertical-align:middle; margin-right:5px;">
+            Back to Home
+        </a>
+    </div>
+</body>
+</html>

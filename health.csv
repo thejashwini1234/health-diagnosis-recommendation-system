@@ -1,0 +1,1728 @@
+symptom1,symptom2,symptom3,disease,remedies
+fever,fever,fever,COVID-19,Isolation; Hydration; Doctor consultation
+fever,fever,cough,Gastroenteritis,ORS; Rest; Hydration
+fever,fever,headache,Strep Throat,Antibiotics; Hydration; Rest
+fever,fever,body pain,Strep Throat,Antibiotics; Hydration; Rest
+fever,fever,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,fever,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+fever,fever,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+fever,fever,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+fever,fever,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,fever,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+fever,fever,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,fever,none,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,cough,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,cough,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,cough,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,cough,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,cough,chills,Flu,Bed rest; Hydration; Paracetamol
+fever,cough,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,cough,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,cough,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,cough,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,cough,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,cough,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,cough,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,headache,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,headache,cough,Asthma,Inhaler; Avoid triggers; Rest
+fever,headache,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,headache,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,headache,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,headache,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+fever,headache,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+fever,headache,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+fever,headache,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,headache,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+fever,headache,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,headache,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+fever,body pain,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,body pain,cough,Strep Throat,Antibiotics; Hydration; Rest
+fever,body pain,headache,COVID-19,Isolation; Hydration; Doctor consultation
+fever,body pain,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+fever,body pain,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,body pain,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,body pain,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+fever,body pain,fatigue,Flu,Bed rest; Hydration; Paracetamol
+fever,body pain,nausea,Asthma,Inhaler; Avoid triggers; Rest
+fever,body pain,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+fever,body pain,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+fever,body pain,none,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,chills,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,chills,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,chills,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,chills,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,chills,chills,COVID-19,Isolation; Hydration; Doctor consultation
+fever,chills,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,chills,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,chills,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,chills,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,chills,vomiting,Gastroenteritis,ORS; Rest; Hydration
+fever,chills,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+fever,chills,none,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,sore throat,fever,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,sore throat,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,sore throat,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,sore throat,body pain,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,sore throat,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,sore throat,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,sore throat,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,sore throat,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+fever,sore throat,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,sore throat,vomiting,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,sore throat,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,sore throat,none,Flu,Bed rest; Hydration; Paracetamol
+fever,shortness of breath,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,shortness of breath,cough,Asthma,Inhaler; Avoid triggers; Rest
+fever,shortness of breath,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,shortness of breath,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,shortness of breath,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+fever,shortness of breath,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+fever,shortness of breath,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+fever,shortness of breath,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+fever,shortness of breath,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,shortness of breath,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,shortness of breath,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,shortness of breath,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,fatigue,fever,Asthma,Inhaler; Avoid triggers; Rest
+fever,fatigue,cough,Gastroenteritis,ORS; Rest; Hydration
+fever,fatigue,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,fatigue,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,fatigue,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,fatigue,sore throat,Gastroenteritis,ORS; Rest; Hydration
+fever,fatigue,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+fever,fatigue,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+fever,fatigue,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,fatigue,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+fever,fatigue,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+fever,fatigue,none,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,nausea,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,nausea,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,nausea,headache,Flu,Bed rest; Hydration; Paracetamol
+fever,nausea,body pain,Asthma,Inhaler; Avoid triggers; Rest
+fever,nausea,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+fever,nausea,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,nausea,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,nausea,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+fever,nausea,nausea,Flu,Bed rest; Hydration; Paracetamol
+fever,nausea,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+fever,nausea,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,nausea,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,vomiting,fever,Asthma,Inhaler; Avoid triggers; Rest
+fever,vomiting,cough,Flu,Bed rest; Hydration; Paracetamol
+fever,vomiting,headache,Strep Throat,Antibiotics; Hydration; Rest
+fever,vomiting,body pain,Strep Throat,Antibiotics; Hydration; Rest
+fever,vomiting,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,vomiting,sore throat,Flu,Bed rest; Hydration; Paracetamol
+fever,vomiting,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+fever,vomiting,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,vomiting,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+fever,vomiting,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,vomiting,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,vomiting,none,COVID-19,Isolation; Hydration; Doctor consultation
+fever,diarrhea,fever,Asthma,Inhaler; Avoid triggers; Rest
+fever,diarrhea,cough,Asthma,Inhaler; Avoid triggers; Rest
+fever,diarrhea,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,diarrhea,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,diarrhea,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,diarrhea,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+fever,diarrhea,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+fever,diarrhea,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+fever,diarrhea,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+fever,diarrhea,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+fever,diarrhea,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,diarrhea,none,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,none,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fever,none,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,none,headache,COVID-19,Isolation; Hydration; Doctor consultation
+fever,none,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+fever,none,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+fever,none,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+fever,none,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+fever,none,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+fever,none,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+fever,none,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+fever,none,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+fever,none,none,Gastroenteritis,ORS; Rest; Hydration
+cough,fever,fever,Flu,Bed rest; Hydration; Paracetamol
+cough,fever,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+cough,fever,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,fever,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,fever,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+cough,fever,sore throat,Gastroenteritis,ORS; Rest; Hydration
+cough,fever,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+cough,fever,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,fever,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,fever,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,fever,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+cough,fever,none,Asthma,Inhaler; Avoid triggers; Rest
+cough,cough,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,cough,cough,Asthma,Inhaler; Avoid triggers; Rest
+cough,cough,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,cough,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,cough,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,cough,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+cough,cough,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+cough,cough,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+cough,cough,nausea,Strep Throat,Antibiotics; Hydration; Rest
+cough,cough,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,cough,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+cough,cough,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,headache,fever,Asthma,Inhaler; Avoid triggers; Rest
+cough,headache,cough,Gastroenteritis,ORS; Rest; Hydration
+cough,headache,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,headache,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,headache,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+cough,headache,sore throat,Gastroenteritis,ORS; Rest; Hydration
+cough,headache,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+cough,headache,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,headache,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,headache,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,headache,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+cough,headache,none,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,body pain,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,body pain,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,body pain,headache,Gastroenteritis,ORS; Rest; Hydration
+cough,body pain,body pain,Flu,Bed rest; Hydration; Paracetamol
+cough,body pain,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,body pain,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+cough,body pain,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,body pain,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,body pain,nausea,Gastroenteritis,ORS; Rest; Hydration
+cough,body pain,vomiting,Flu,Bed rest; Hydration; Paracetamol
+cough,body pain,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+cough,body pain,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+cough,chills,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,chills,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,chills,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+cough,chills,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+cough,chills,chills,Flu,Bed rest; Hydration; Paracetamol
+cough,chills,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,chills,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,chills,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+cough,chills,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,chills,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+cough,chills,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,chills,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,sore throat,fever,Asthma,Inhaler; Avoid triggers; Rest
+cough,sore throat,cough,Gastroenteritis,ORS; Rest; Hydration
+cough,sore throat,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,sore throat,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,sore throat,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+cough,sore throat,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+cough,sore throat,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+cough,sore throat,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,sore throat,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,sore throat,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+cough,sore throat,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+cough,sore throat,none,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,shortness of breath,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,shortness of breath,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,shortness of breath,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,shortness of breath,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,shortness of breath,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,shortness of breath,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,shortness of breath,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,shortness of breath,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+cough,shortness of breath,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,shortness of breath,vomiting,Gastroenteritis,ORS; Rest; Hydration
+cough,shortness of breath,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+cough,shortness of breath,none,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,fatigue,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,fatigue,cough,Asthma,Inhaler; Avoid triggers; Rest
+cough,fatigue,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,fatigue,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,fatigue,chills,Flu,Bed rest; Hydration; Paracetamol
+cough,fatigue,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,fatigue,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+cough,fatigue,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+cough,fatigue,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,fatigue,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+cough,fatigue,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,fatigue,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,nausea,fever,Flu,Bed rest; Hydration; Paracetamol
+cough,nausea,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,nausea,headache,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,nausea,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,nausea,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,nausea,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,nausea,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,nausea,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,nausea,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,nausea,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,nausea,diarrhea,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,nausea,none,COVID-19,Isolation; Hydration; Doctor consultation
+cough,vomiting,fever,Flu,Bed rest; Hydration; Paracetamol
+cough,vomiting,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,vomiting,headache,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,vomiting,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,vomiting,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,vomiting,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,vomiting,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,vomiting,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,vomiting,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,vomiting,vomiting,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,vomiting,diarrhea,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,vomiting,none,COVID-19,Isolation; Hydration; Doctor consultation
+cough,diarrhea,fever,Asthma,Inhaler; Avoid triggers; Rest
+cough,diarrhea,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,diarrhea,headache,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,diarrhea,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,diarrhea,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,diarrhea,sore throat,Gastroenteritis,ORS; Rest; Hydration
+cough,diarrhea,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+cough,diarrhea,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,diarrhea,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+cough,diarrhea,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+cough,diarrhea,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+cough,diarrhea,none,COVID-19,Isolation; Hydration; Doctor consultation
+cough,none,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+cough,none,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,none,headache,Flu,Bed rest; Hydration; Paracetamol
+cough,none,body pain,Flu,Bed rest; Hydration; Paracetamol
+cough,none,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+cough,none,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+cough,none,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+cough,none,fatigue,Gastroenteritis,ORS; Rest; Hydration
+cough,none,nausea,Flu,Bed rest; Hydration; Paracetamol
+cough,none,vomiting,Asthma,Inhaler; Avoid triggers; Rest
+cough,none,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+cough,none,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,fever,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,fever,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,fever,headache,COVID-19,Isolation; Hydration; Doctor consultation
+headache,fever,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+headache,fever,chills,Strep Throat,Antibiotics; Hydration; Rest
+headache,fever,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,fever,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,fever,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,fever,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+headache,fever,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,fever,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,fever,none,Gastroenteritis,ORS; Rest; Hydration
+headache,cough,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+headache,cough,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,cough,headache,Flu,Bed rest; Hydration; Paracetamol
+headache,cough,body pain,Flu,Bed rest; Hydration; Paracetamol
+headache,cough,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,cough,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+headache,cough,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,cough,fatigue,Flu,Bed rest; Hydration; Paracetamol
+headache,cough,nausea,Flu,Bed rest; Hydration; Paracetamol
+headache,cough,vomiting,Asthma,Inhaler; Avoid triggers; Rest
+headache,cough,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+headache,cough,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,headache,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,headache,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,headache,headache,Gastroenteritis,ORS; Rest; Hydration
+headache,headache,body pain,Gastroenteritis,ORS; Rest; Hydration
+headache,headache,chills,COVID-19,Isolation; Hydration; Doctor consultation
+headache,headache,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,headache,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,headache,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,headache,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,headache,vomiting,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,headache,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+headache,headache,none,Strep Throat,Antibiotics; Hydration; Rest
+headache,body pain,fever,Asthma,Inhaler; Avoid triggers; Rest
+headache,body pain,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,body pain,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,body pain,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,body pain,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+headache,body pain,sore throat,Gastroenteritis,ORS; Rest; Hydration
+headache,body pain,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,body pain,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,body pain,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,body pain,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+headache,body pain,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+headache,body pain,none,COVID-19,Isolation; Hydration; Doctor consultation
+headache,chills,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,chills,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+headache,chills,headache,COVID-19,Isolation; Hydration; Doctor consultation
+headache,chills,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+headache,chills,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,chills,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,chills,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+headache,chills,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+headache,chills,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+headache,chills,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,chills,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,chills,none,Gastroenteritis,ORS; Rest; Hydration
+headache,sore throat,fever,Strep Throat,Antibiotics; Hydration; Rest
+headache,sore throat,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,sore throat,headache,Gastroenteritis,ORS; Rest; Hydration
+headache,sore throat,body pain,Gastroenteritis,ORS; Rest; Hydration
+headache,sore throat,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,sore throat,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,sore throat,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,sore throat,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,sore throat,nausea,Gastroenteritis,ORS; Rest; Hydration
+headache,sore throat,vomiting,Flu,Bed rest; Hydration; Paracetamol
+headache,sore throat,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+headache,sore throat,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+headache,shortness of breath,fever,Flu,Bed rest; Hydration; Paracetamol
+headache,shortness of breath,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,shortness of breath,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,shortness of breath,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,shortness of breath,chills,Strep Throat,Antibiotics; Hydration; Rest
+headache,shortness of breath,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,shortness of breath,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,shortness of breath,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,shortness of breath,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,shortness of breath,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,shortness of breath,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,shortness of breath,none,Asthma,Inhaler; Avoid triggers; Rest
+headache,fatigue,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,fatigue,cough,Strep Throat,Antibiotics; Hydration; Rest
+headache,fatigue,headache,COVID-19,Isolation; Hydration; Doctor consultation
+headache,fatigue,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+headache,fatigue,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,fatigue,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+headache,fatigue,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+headache,fatigue,fatigue,Flu,Bed rest; Hydration; Paracetamol
+headache,fatigue,nausea,Asthma,Inhaler; Avoid triggers; Rest
+headache,fatigue,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+headache,fatigue,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+headache,fatigue,none,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,nausea,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,nausea,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,nausea,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,nausea,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,nausea,chills,Asthma,Inhaler; Avoid triggers; Rest
+headache,nausea,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,nausea,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,nausea,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,nausea,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+headache,nausea,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,nausea,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+headache,nausea,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,vomiting,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,vomiting,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,vomiting,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+headache,vomiting,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+headache,vomiting,chills,Asthma,Inhaler; Avoid triggers; Rest
+headache,vomiting,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,vomiting,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,vomiting,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,vomiting,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+headache,vomiting,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,vomiting,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+headache,vomiting,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,diarrhea,fever,Gastroenteritis,ORS; Rest; Hydration
+headache,diarrhea,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+headache,diarrhea,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,diarrhea,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,diarrhea,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,diarrhea,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+headache,diarrhea,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+headache,diarrhea,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+headache,diarrhea,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,diarrhea,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+headache,diarrhea,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,diarrhea,none,Flu,Bed rest; Hydration; Paracetamol
+headache,none,fever,Asthma,Inhaler; Avoid triggers; Rest
+headache,none,cough,Gastroenteritis,ORS; Rest; Hydration
+headache,none,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,none,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,none,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+headache,none,sore throat,Flu,Bed rest; Hydration; Paracetamol
+headache,none,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+headache,none,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+headache,none,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+headache,none,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+headache,none,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+headache,none,none,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,fever,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,fever,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,fever,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,fever,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,fever,chills,Gastroenteritis,ORS; Rest; Hydration
+body pain,fever,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,fever,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,fever,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,fever,nausea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,fever,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,fever,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,fever,none,Strep Throat,Antibiotics; Hydration; Rest
+body pain,cough,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,cough,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,cough,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,cough,body pain,Gastroenteritis,ORS; Rest; Hydration
+body pain,cough,chills,Asthma,Inhaler; Avoid triggers; Rest
+body pain,cough,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,cough,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,cough,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,cough,nausea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,cough,vomiting,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,cough,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+body pain,cough,none,Strep Throat,Antibiotics; Hydration; Rest
+body pain,headache,fever,Flu,Bed rest; Hydration; Paracetamol
+body pain,headache,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,headache,headache,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,headache,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,headache,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+body pain,headache,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,headache,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,headache,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,headache,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,headache,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+body pain,headache,diarrhea,Malaria,Antimalarial drugs; Bed rest; Fluids
+body pain,headache,none,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,body pain,fever,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,body pain,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,body pain,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,body pain,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,body pain,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+body pain,body pain,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,body pain,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,body pain,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,body pain,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,body pain,vomiting,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,body pain,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,body pain,none,Flu,Bed rest; Hydration; Paracetamol
+body pain,chills,fever,Gastroenteritis,ORS; Rest; Hydration
+body pain,chills,cough,Gastroenteritis,ORS; Rest; Hydration
+body pain,chills,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+body pain,chills,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+body pain,chills,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+body pain,chills,sore throat,Gastroenteritis,ORS; Rest; Hydration
+body pain,chills,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+body pain,chills,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,chills,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,chills,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,chills,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+body pain,chills,none,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,sore throat,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,sore throat,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,sore throat,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,sore throat,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,sore throat,chills,Asthma,Inhaler; Avoid triggers; Rest
+body pain,sore throat,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,sore throat,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,sore throat,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,sore throat,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,sore throat,vomiting,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,sore throat,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+body pain,sore throat,none,Strep Throat,Antibiotics; Hydration; Rest
+body pain,shortness of breath,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,shortness of breath,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+body pain,shortness of breath,headache,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,shortness of breath,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,shortness of breath,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,shortness of breath,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+body pain,shortness of breath,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+body pain,shortness of breath,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+body pain,shortness of breath,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,shortness of breath,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,shortness of breath,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,shortness of breath,none,Gastroenteritis,ORS; Rest; Hydration
+body pain,fatigue,fever,Strep Throat,Antibiotics; Hydration; Rest
+body pain,fatigue,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,fatigue,headache,Gastroenteritis,ORS; Rest; Hydration
+body pain,fatigue,body pain,Gastroenteritis,ORS; Rest; Hydration
+body pain,fatigue,chills,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,fatigue,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,fatigue,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,fatigue,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,fatigue,nausea,Gastroenteritis,ORS; Rest; Hydration
+body pain,fatigue,vomiting,Flu,Bed rest; Hydration; Paracetamol
+body pain,fatigue,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+body pain,fatigue,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,nausea,fever,Gastroenteritis,ORS; Rest; Hydration
+body pain,nausea,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,nausea,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,nausea,body pain,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,nausea,chills,Strep Throat,Antibiotics; Hydration; Rest
+body pain,nausea,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,nausea,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,nausea,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+body pain,nausea,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,nausea,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,nausea,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,nausea,none,Asthma,Inhaler; Avoid triggers; Rest
+body pain,vomiting,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,vomiting,cough,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,vomiting,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,vomiting,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,vomiting,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,vomiting,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,vomiting,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,vomiting,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+body pain,vomiting,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,vomiting,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,vomiting,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+body pain,vomiting,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+body pain,diarrhea,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+body pain,diarrhea,cough,Strep Throat,Antibiotics; Hydration; Rest
+body pain,diarrhea,headache,Asthma,Inhaler; Avoid triggers; Rest
+body pain,diarrhea,body pain,Asthma,Inhaler; Avoid triggers; Rest
+body pain,diarrhea,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+body pain,diarrhea,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+body pain,diarrhea,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+body pain,diarrhea,fatigue,Flu,Bed rest; Hydration; Paracetamol
+body pain,diarrhea,nausea,Asthma,Inhaler; Avoid triggers; Rest
+body pain,diarrhea,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,diarrhea,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,diarrhea,none,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,none,fever,Strep Throat,Antibiotics; Hydration; Rest
+body pain,none,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,none,headache,Gastroenteritis,ORS; Rest; Hydration
+body pain,none,body pain,Gastroenteritis,ORS; Rest; Hydration
+body pain,none,chills,COVID-19,Isolation; Hydration; Doctor consultation
+body pain,none,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+body pain,none,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+body pain,none,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+body pain,none,nausea,Gastroenteritis,ORS; Rest; Hydration
+body pain,none,vomiting,Flu,Bed rest; Hydration; Paracetamol
+body pain,none,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+body pain,none,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,fever,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,fever,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,fever,headache,Flu,Bed rest; Hydration; Paracetamol
+chills,fever,body pain,Flu,Bed rest; Hydration; Paracetamol
+chills,fever,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,fever,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,fever,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+chills,fever,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+chills,fever,nausea,Gastroenteritis,ORS; Rest; Hydration
+chills,fever,vomiting,Flu,Bed rest; Hydration; Paracetamol
+chills,fever,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+chills,fever,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,cough,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,cough,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,cough,headache,COVID-19,Isolation; Hydration; Doctor consultation
+chills,cough,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+chills,cough,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,cough,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,cough,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,cough,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+chills,cough,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+chills,cough,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,cough,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,cough,none,Gastroenteritis,ORS; Rest; Hydration
+chills,headache,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,headache,cough,Strep Throat,Antibiotics; Hydration; Rest
+chills,headache,headache,Flu,Bed rest; Hydration; Paracetamol
+chills,headache,body pain,Asthma,Inhaler; Avoid triggers; Rest
+chills,headache,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,headache,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,headache,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+chills,headache,fatigue,Flu,Bed rest; Hydration; Paracetamol
+chills,headache,nausea,Gastroenteritis,ORS; Rest; Hydration
+chills,headache,vomiting,Asthma,Inhaler; Avoid triggers; Rest
+chills,headache,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+chills,headache,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,body pain,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,body pain,cough,Asthma,Inhaler; Avoid triggers; Rest
+chills,body pain,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,body pain,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,body pain,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,body pain,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+chills,body pain,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+chills,body pain,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,body pain,nausea,Strep Throat,Antibiotics; Hydration; Rest
+chills,body pain,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,body pain,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,body pain,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,chills,fever,Gastroenteritis,ORS; Rest; Hydration
+chills,chills,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,chills,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,chills,body pain,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,chills,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,chills,sore throat,Gastroenteritis,ORS; Rest; Hydration
+chills,chills,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,chills,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,chills,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,chills,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+chills,chills,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+chills,chills,none,Asthma,Inhaler; Avoid triggers; Rest
+chills,sore throat,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+chills,sore throat,cough,COVID-19,Isolation; Hydration; Doctor consultation
+chills,sore throat,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,sore throat,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,sore throat,chills,Gastroenteritis,ORS; Rest; Hydration
+chills,sore throat,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,sore throat,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+chills,sore throat,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,sore throat,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,sore throat,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,sore throat,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,sore throat,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,shortness of breath,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,shortness of breath,cough,Strep Throat,Antibiotics; Hydration; Rest
+chills,shortness of breath,headache,COVID-19,Isolation; Hydration; Doctor consultation
+chills,shortness of breath,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+chills,shortness of breath,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,shortness of breath,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,shortness of breath,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,shortness of breath,fatigue,Flu,Bed rest; Hydration; Paracetamol
+chills,shortness of breath,nausea,Flu,Bed rest; Hydration; Paracetamol
+chills,shortness of breath,vomiting,Asthma,Inhaler; Avoid triggers; Rest
+chills,shortness of breath,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,shortness of breath,none,Pneumonia,Antibiotics; Hydration; Hospital care
+chills,fatigue,fever,Gastroenteritis,ORS; Rest; Hydration
+chills,fatigue,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,fatigue,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,fatigue,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,fatigue,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,fatigue,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+chills,fatigue,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,fatigue,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+chills,fatigue,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,fatigue,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+chills,fatigue,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+chills,fatigue,none,Flu,Bed rest; Hydration; Paracetamol
+chills,nausea,fever,COVID-19,Isolation; Hydration; Doctor consultation
+chills,nausea,cough,Gastroenteritis,ORS; Rest; Hydration
+chills,nausea,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,nausea,body pain,Strep Throat,Antibiotics; Hydration; Rest
+chills,nausea,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+chills,nausea,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+chills,nausea,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+chills,nausea,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+chills,nausea,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,nausea,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,nausea,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,nausea,none,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,vomiting,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+chills,vomiting,cough,Asthma,Inhaler; Avoid triggers; Rest
+chills,vomiting,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,vomiting,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,vomiting,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+chills,vomiting,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+chills,vomiting,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+chills,vomiting,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+chills,vomiting,nausea,Strep Throat,Antibiotics; Hydration; Rest
+chills,vomiting,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,vomiting,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,vomiting,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+chills,diarrhea,fever,Strep Throat,Antibiotics; Hydration; Rest
+chills,diarrhea,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,diarrhea,headache,Gastroenteritis,ORS; Rest; Hydration
+chills,diarrhea,body pain,Gastroenteritis,ORS; Rest; Hydration
+chills,diarrhea,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,diarrhea,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+chills,diarrhea,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+chills,diarrhea,fatigue,Gastroenteritis,ORS; Rest; Hydration
+chills,diarrhea,nausea,Gastroenteritis,ORS; Rest; Hydration
+chills,diarrhea,vomiting,Flu,Bed rest; Hydration; Paracetamol
+chills,diarrhea,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+chills,diarrhea,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,none,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+chills,none,cough,Asthma,Inhaler; Avoid triggers; Rest
+chills,none,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,none,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,none,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+chills,none,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+chills,none,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+chills,none,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+chills,none,nausea,Strep Throat,Antibiotics; Hydration; Rest
+chills,none,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+chills,none,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+chills,none,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+sore throat,fever,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,fever,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,fever,headache,Flu,Bed rest; Hydration; Paracetamol
+sore throat,fever,body pain,Flu,Bed rest; Hydration; Paracetamol
+sore throat,fever,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+sore throat,fever,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,fever,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,fever,fatigue,Gastroenteritis,ORS; Rest; Hydration
+sore throat,fever,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,fever,vomiting,Flu,Bed rest; Hydration; Paracetamol
+sore throat,fever,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,fever,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,cough,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,cough,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,cough,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,cough,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,cough,chills,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,cough,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,cough,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,cough,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,cough,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+sore throat,cough,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,cough,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+sore throat,cough,none,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,headache,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,headache,cough,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,headache,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,headache,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,headache,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,headache,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,headache,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,headache,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,headache,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,headache,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,headache,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,headache,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+sore throat,body pain,fever,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,body pain,cough,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,body pain,headache,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,body pain,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,body pain,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,body pain,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,body pain,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,body pain,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,body pain,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,body pain,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,body pain,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+sore throat,body pain,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,chills,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+sore throat,chills,cough,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,chills,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+sore throat,chills,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+sore throat,chills,chills,Gastroenteritis,ORS; Rest; Hydration
+sore throat,chills,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,chills,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,chills,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,chills,nausea,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,chills,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,chills,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,chills,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,sore throat,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,sore throat,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,sore throat,headache,Flu,Bed rest; Hydration; Paracetamol
+sore throat,sore throat,body pain,Flu,Bed rest; Hydration; Paracetamol
+sore throat,sore throat,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,sore throat,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,sore throat,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,sore throat,fatigue,Gastroenteritis,ORS; Rest; Hydration
+sore throat,sore throat,nausea,Flu,Bed rest; Hydration; Paracetamol
+sore throat,sore throat,vomiting,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,sore throat,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,sore throat,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,shortness of breath,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+sore throat,shortness of breath,cough,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,shortness of breath,headache,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,shortness of breath,body pain,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,shortness of breath,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+sore throat,shortness of breath,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,shortness of breath,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,shortness of breath,fatigue,Gastroenteritis,ORS; Rest; Hydration
+sore throat,shortness of breath,nausea,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,shortness of breath,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,shortness of breath,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+sore throat,shortness of breath,none,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,fatigue,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,fatigue,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,fatigue,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,fatigue,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,fatigue,chills,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,fatigue,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,fatigue,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,fatigue,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,fatigue,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,fatigue,vomiting,Gastroenteritis,ORS; Rest; Hydration
+sore throat,fatigue,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,fatigue,none,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,nausea,fever,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,nausea,cough,Flu,Bed rest; Hydration; Paracetamol
+sore throat,nausea,headache,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,nausea,body pain,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,nausea,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,nausea,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,nausea,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+sore throat,nausea,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,nausea,nausea,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,nausea,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,nausea,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,nausea,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,vomiting,fever,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,vomiting,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+sore throat,vomiting,headache,Gastroenteritis,ORS; Rest; Hydration
+sore throat,vomiting,body pain,Gastroenteritis,ORS; Rest; Hydration
+sore throat,vomiting,chills,COVID-19,Isolation; Hydration; Doctor consultation
+sore throat,vomiting,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,vomiting,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+sore throat,vomiting,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,vomiting,nausea,Gastroenteritis,ORS; Rest; Hydration
+sore throat,vomiting,vomiting,Flu,Bed rest; Hydration; Paracetamol
+sore throat,vomiting,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+sore throat,vomiting,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+sore throat,diarrhea,fever,Gastroenteritis,ORS; Rest; Hydration
+sore throat,diarrhea,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,diarrhea,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,diarrhea,body pain,Common Cold,Rest; Drink warm fluids; Paracetamol
+sore throat,diarrhea,chills,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,diarrhea,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+sore throat,diarrhea,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,diarrhea,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+sore throat,diarrhea,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+sore throat,diarrhea,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+sore throat,diarrhea,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+sore throat,diarrhea,none,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,none,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+sore throat,none,cough,Flu,Bed rest; Hydration; Paracetamol
+sore throat,none,headache,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,none,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,none,chills,Gastroenteritis,ORS; Rest; Hydration
+sore throat,none,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+sore throat,none,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+sore throat,none,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+sore throat,none,nausea,Strep Throat,Antibiotics; Hydration; Rest
+sore throat,none,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+sore throat,none,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+sore throat,none,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,fever,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,fever,cough,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,fever,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,fever,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,fever,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,fever,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,fever,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,fever,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+shortness of breath,fever,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,fever,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,fever,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,fever,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,cough,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,cough,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,cough,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,cough,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,cough,chills,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,cough,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,cough,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,cough,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,cough,nausea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,cough,vomiting,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,cough,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,cough,none,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,headache,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,headache,cough,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,headache,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,headache,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,headache,chills,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,headache,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,headache,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,headache,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+shortness of breath,headache,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,headache,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,headache,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,headache,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,body pain,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,body pain,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,body pain,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,body pain,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,body pain,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,body pain,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,body pain,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,body pain,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,body pain,nausea,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,body pain,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,body pain,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,body pain,none,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,chills,fever,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,chills,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,chills,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,chills,body pain,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,chills,chills,Strep Throat,Antibiotics; Hydration; Rest
+shortness of breath,chills,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,chills,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,chills,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,chills,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,chills,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,chills,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,chills,none,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,sore throat,fever,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,sore throat,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,sore throat,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,sore throat,body pain,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,sore throat,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,sore throat,sore throat,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,sore throat,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,sore throat,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,sore throat,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,sore throat,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,sore throat,diarrhea,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,sore throat,none,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,shortness of breath,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,shortness of breath,cough,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,shortness of breath,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,shortness of breath,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,shortness of breath,chills,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,shortness of breath,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,shortness of breath,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,shortness of breath,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,shortness of breath,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,shortness of breath,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,shortness of breath,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,shortness of breath,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,fatigue,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,fatigue,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,fatigue,headache,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,fatigue,body pain,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,fatigue,chills,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,fatigue,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,fatigue,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,fatigue,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,fatigue,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,fatigue,vomiting,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,fatigue,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,fatigue,none,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,nausea,fever,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,nausea,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,nausea,headache,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,nausea,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,nausea,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,nausea,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,nausea,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,nausea,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,nausea,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,nausea,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,nausea,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,nausea,none,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,vomiting,fever,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,vomiting,cough,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,vomiting,headache,Strep Throat,Antibiotics; Hydration; Rest
+shortness of breath,vomiting,body pain,Strep Throat,Antibiotics; Hydration; Rest
+shortness of breath,vomiting,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+shortness of breath,vomiting,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,vomiting,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,vomiting,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,vomiting,nausea,Strep Throat,Antibiotics; Hydration; Rest
+shortness of breath,vomiting,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,vomiting,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,vomiting,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,diarrhea,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,diarrhea,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,diarrhea,headache,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,diarrhea,body pain,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,diarrhea,chills,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,diarrhea,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+shortness of breath,diarrhea,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,diarrhea,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,diarrhea,nausea,Gastroenteritis,ORS; Rest; Hydration
+shortness of breath,diarrhea,vomiting,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,diarrhea,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+shortness of breath,diarrhea,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,none,fever,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,none,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+shortness of breath,none,headache,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,none,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+shortness of breath,none,chills,Strep Throat,Antibiotics; Hydration; Rest
+shortness of breath,none,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+shortness of breath,none,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+shortness of breath,none,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+shortness of breath,none,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+shortness of breath,none,vomiting,Common Cold,Rest; Drink warm fluids; Paracetamol
+shortness of breath,none,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+shortness of breath,none,none,Gastroenteritis,ORS; Rest; Hydration
+fatigue,fever,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,fever,cough,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,fever,headache,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,fever,body pain,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,fever,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,fever,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,fever,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,fever,fatigue,Flu,Bed rest; Hydration; Paracetamol
+fatigue,fever,nausea,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,fever,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,fever,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,fever,none,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,cough,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,cough,cough,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,cough,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,cough,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,cough,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,cough,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,cough,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,cough,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,cough,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,cough,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,cough,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,cough,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,headache,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,headache,cough,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,headache,headache,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,headache,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,headache,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,headache,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,headache,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,headache,fatigue,Flu,Bed rest; Hydration; Paracetamol
+fatigue,headache,nausea,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,headache,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,headache,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,headache,none,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,body pain,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,body pain,cough,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,body pain,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,body pain,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,body pain,chills,Gastroenteritis,ORS; Rest; Hydration
+fatigue,body pain,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,body pain,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,body pain,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,body pain,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,body pain,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,body pain,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fatigue,body pain,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,chills,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,chills,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,chills,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fatigue,chills,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fatigue,chills,chills,Flu,Bed rest; Hydration; Paracetamol
+fatigue,chills,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,chills,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,chills,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,chills,nausea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fatigue,chills,vomiting,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,chills,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,chills,none,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,sore throat,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,sore throat,cough,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,sore throat,headache,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,sore throat,body pain,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,sore throat,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,sore throat,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,sore throat,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,sore throat,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,sore throat,nausea,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,sore throat,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,sore throat,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,sore throat,none,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,shortness of breath,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,shortness of breath,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,shortness of breath,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,shortness of breath,body pain,Flu,Bed rest; Hydration; Paracetamol
+fatigue,shortness of breath,chills,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,shortness of breath,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,shortness of breath,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,shortness of breath,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,shortness of breath,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,shortness of breath,vomiting,Gastroenteritis,ORS; Rest; Hydration
+fatigue,shortness of breath,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,shortness of breath,none,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,fatigue,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,fatigue,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,fatigue,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,fatigue,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fatigue,fatigue,chills,Gastroenteritis,ORS; Rest; Hydration
+fatigue,fatigue,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,fatigue,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,fatigue,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,fatigue,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,fatigue,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,fatigue,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,fatigue,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,nausea,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,nausea,cough,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,nausea,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,nausea,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,nausea,chills,Flu,Bed rest; Hydration; Paracetamol
+fatigue,nausea,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,nausea,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,nausea,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+fatigue,nausea,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,nausea,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,nausea,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,nausea,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,vomiting,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,vomiting,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,vomiting,headache,Flu,Bed rest; Hydration; Paracetamol
+fatigue,vomiting,body pain,Flu,Bed rest; Hydration; Paracetamol
+fatigue,vomiting,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,vomiting,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,vomiting,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,vomiting,fatigue,Gastroenteritis,ORS; Rest; Hydration
+fatigue,vomiting,nausea,Flu,Bed rest; Hydration; Paracetamol
+fatigue,vomiting,vomiting,Asthma,Inhaler; Avoid triggers; Rest
+fatigue,vomiting,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,vomiting,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fatigue,diarrhea,fever,Flu,Bed rest; Hydration; Paracetamol
+fatigue,diarrhea,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,diarrhea,headache,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,diarrhea,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,diarrhea,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,diarrhea,sore throat,Gastroenteritis,ORS; Rest; Hydration
+fatigue,diarrhea,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,diarrhea,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,diarrhea,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+fatigue,diarrhea,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,diarrhea,diarrhea,Malaria,Antimalarial drugs; Bed rest; Fluids
+fatigue,diarrhea,none,COVID-19,Isolation; Hydration; Doctor consultation
+fatigue,none,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,none,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,none,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,none,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,none,chills,Flu,Bed rest; Hydration; Paracetamol
+fatigue,none,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+fatigue,none,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+fatigue,none,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+fatigue,none,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+fatigue,none,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+fatigue,none,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+fatigue,none,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,fever,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,fever,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,fever,headache,Flu,Bed rest; Hydration; Paracetamol
+nausea,fever,body pain,Flu,Bed rest; Hydration; Paracetamol
+nausea,fever,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,fever,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,fever,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,fever,fatigue,Gastroenteritis,ORS; Rest; Hydration
+nausea,fever,nausea,Flu,Bed rest; Hydration; Paracetamol
+nausea,fever,vomiting,Asthma,Inhaler; Avoid triggers; Rest
+nausea,fever,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+nausea,fever,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,cough,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,cough,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,cough,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,cough,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,cough,chills,Flu,Bed rest; Hydration; Paracetamol
+nausea,cough,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,cough,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,cough,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,cough,nausea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,cough,vomiting,Gastroenteritis,ORS; Rest; Hydration
+nausea,cough,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+nausea,cough,none,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,headache,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,headache,cough,Asthma,Inhaler; Avoid triggers; Rest
+nausea,headache,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,headache,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,headache,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,headache,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,headache,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+nausea,headache,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+nausea,headache,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,headache,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,headache,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,headache,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,body pain,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,body pain,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,body pain,headache,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,body pain,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,body pain,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,body pain,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,body pain,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,body pain,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,body pain,nausea,Asthma,Inhaler; Avoid triggers; Rest
+nausea,body pain,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,body pain,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,body pain,none,Gastroenteritis,ORS; Rest; Hydration
+nausea,chills,fever,Flu,Bed rest; Hydration; Paracetamol
+nausea,chills,cough,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,chills,headache,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,chills,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,chills,chills,Strep Throat,Antibiotics; Hydration; Rest
+nausea,chills,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,chills,shortness of breath,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,chills,fatigue,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,chills,nausea,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,chills,vomiting,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,chills,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,chills,none,Asthma,Inhaler; Avoid triggers; Rest
+nausea,sore throat,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,sore throat,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,sore throat,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,sore throat,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,sore throat,chills,Flu,Bed rest; Hydration; Paracetamol
+nausea,sore throat,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,sore throat,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,sore throat,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,sore throat,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,sore throat,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,sore throat,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,sore throat,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,shortness of breath,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,shortness of breath,cough,Strep Throat,Antibiotics; Hydration; Rest
+nausea,shortness of breath,headache,Asthma,Inhaler; Avoid triggers; Rest
+nausea,shortness of breath,body pain,Asthma,Inhaler; Avoid triggers; Rest
+nausea,shortness of breath,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,shortness of breath,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,shortness of breath,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,shortness of breath,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+nausea,shortness of breath,nausea,Flu,Bed rest; Hydration; Paracetamol
+nausea,shortness of breath,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,shortness of breath,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,shortness of breath,none,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,fatigue,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,fatigue,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,fatigue,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,fatigue,body pain,Gastroenteritis,ORS; Rest; Hydration
+nausea,fatigue,chills,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,fatigue,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,fatigue,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,fatigue,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,fatigue,nausea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+nausea,fatigue,vomiting,Gastroenteritis,ORS; Rest; Hydration
+nausea,fatigue,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+nausea,fatigue,none,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,nausea,fever,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,nausea,cough,Flu,Bed rest; Hydration; Paracetamol
+nausea,nausea,headache,Strep Throat,Antibiotics; Hydration; Rest
+nausea,nausea,body pain,Strep Throat,Antibiotics; Hydration; Rest
+nausea,nausea,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,nausea,sore throat,Flu,Bed rest; Hydration; Paracetamol
+nausea,nausea,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+nausea,nausea,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+nausea,nausea,nausea,Strep Throat,Antibiotics; Hydration; Rest
+nausea,nausea,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,nausea,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,nausea,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,vomiting,fever,Strep Throat,Antibiotics; Hydration; Rest
+nausea,vomiting,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,vomiting,headache,Gastroenteritis,ORS; Rest; Hydration
+nausea,vomiting,body pain,Gastroenteritis,ORS; Rest; Hydration
+nausea,vomiting,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,vomiting,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+nausea,vomiting,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,vomiting,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,vomiting,nausea,Gastroenteritis,ORS; Rest; Hydration
+nausea,vomiting,vomiting,Flu,Bed rest; Hydration; Paracetamol
+nausea,vomiting,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+nausea,vomiting,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,diarrhea,fever,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,diarrhea,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,diarrhea,headache,Flu,Bed rest; Hydration; Paracetamol
+nausea,diarrhea,body pain,Flu,Bed rest; Hydration; Paracetamol
+nausea,diarrhea,chills,Common Cold,Rest; Drink warm fluids; Paracetamol
+nausea,diarrhea,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+nausea,diarrhea,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,diarrhea,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,diarrhea,nausea,Gastroenteritis,ORS; Rest; Hydration
+nausea,diarrhea,vomiting,Flu,Bed rest; Hydration; Paracetamol
+nausea,diarrhea,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,diarrhea,none,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,none,fever,Pneumonia,Antibiotics; Hydration; Hospital care
+nausea,none,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,none,headache,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,none,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,none,chills,Strep Throat,Antibiotics; Hydration; Rest
+nausea,none,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+nausea,none,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+nausea,none,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+nausea,none,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+nausea,none,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+nausea,none,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+nausea,none,none,Gastroenteritis,ORS; Rest; Hydration
+vomiting,fever,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,fever,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+vomiting,fever,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,fever,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,fever,chills,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,fever,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+vomiting,fever,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+vomiting,fever,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,fever,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,fever,vomiting,Gastroenteritis,ORS; Rest; Hydration
+vomiting,fever,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,fever,none,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,cough,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+vomiting,cough,cough,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,cough,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,cough,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,cough,chills,Flu,Bed rest; Hydration; Paracetamol
+vomiting,cough,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,cough,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,cough,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,cough,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,cough,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,cough,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,cough,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,headache,fever,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,headache,cough,Gastroenteritis,ORS; Rest; Hydration
+vomiting,headache,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,headache,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,headache,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,headache,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,headache,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+vomiting,headache,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,headache,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,headache,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,headache,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,headache,none,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,body pain,fever,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,body pain,cough,Gastroenteritis,ORS; Rest; Hydration
+vomiting,body pain,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,body pain,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,body pain,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,body pain,sore throat,Gastroenteritis,ORS; Rest; Hydration
+vomiting,body pain,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+vomiting,body pain,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,body pain,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,body pain,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,body pain,diarrhea,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,body pain,none,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,chills,fever,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,chills,cough,Flu,Bed rest; Hydration; Paracetamol
+vomiting,chills,headache,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,chills,body pain,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,chills,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,chills,sore throat,Flu,Bed rest; Hydration; Paracetamol
+vomiting,chills,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+vomiting,chills,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,chills,nausea,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,chills,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,chills,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,chills,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+vomiting,sore throat,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,sore throat,cough,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,sore throat,headache,Flu,Bed rest; Hydration; Paracetamol
+vomiting,sore throat,body pain,Flu,Bed rest; Hydration; Paracetamol
+vomiting,sore throat,chills,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,sore throat,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,sore throat,shortness of breath,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,sore throat,fatigue,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,sore throat,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,sore throat,vomiting,Gastroenteritis,ORS; Rest; Hydration
+vomiting,sore throat,diarrhea,Flu,Bed rest; Hydration; Paracetamol
+vomiting,sore throat,none,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,shortness of breath,fever,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,shortness of breath,cough,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,shortness of breath,headache,Flu,Bed rest; Hydration; Paracetamol
+vomiting,shortness of breath,body pain,Flu,Bed rest; Hydration; Paracetamol
+vomiting,shortness of breath,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,shortness of breath,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,shortness of breath,shortness of breath,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,shortness of breath,fatigue,Gastroenteritis,ORS; Rest; Hydration
+vomiting,shortness of breath,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,shortness of breath,vomiting,Flu,Bed rest; Hydration; Paracetamol
+vomiting,shortness of breath,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,shortness of breath,none,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,fatigue,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,fatigue,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,fatigue,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,fatigue,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,fatigue,chills,Flu,Bed rest; Hydration; Paracetamol
+vomiting,fatigue,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+vomiting,fatigue,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,fatigue,fatigue,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,fatigue,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,fatigue,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,fatigue,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,fatigue,none,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,nausea,fever,Flu,Bed rest; Hydration; Paracetamol
+vomiting,nausea,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,nausea,headache,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,nausea,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,nausea,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,nausea,sore throat,Flu,Bed rest; Hydration; Paracetamol
+vomiting,nausea,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,nausea,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+vomiting,nausea,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,nausea,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,nausea,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,nausea,none,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,vomiting,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,vomiting,cough,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,vomiting,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,vomiting,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,vomiting,chills,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,vomiting,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,vomiting,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,vomiting,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,vomiting,nausea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,vomiting,vomiting,Pneumonia,Antibiotics; Hydration; Hospital care
+vomiting,vomiting,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+vomiting,vomiting,none,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,diarrhea,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,diarrhea,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,diarrhea,headache,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,diarrhea,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,diarrhea,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,diarrhea,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+vomiting,diarrhea,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,diarrhea,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+vomiting,diarrhea,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+vomiting,diarrhea,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+vomiting,diarrhea,diarrhea,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,diarrhea,none,Gastroenteritis,ORS; Rest; Hydration
+vomiting,none,fever,Flu,Bed rest; Hydration; Paracetamol
+vomiting,none,cough,Flu,Bed rest; Hydration; Paracetamol
+vomiting,none,headache,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,none,body pain,Strep Throat,Antibiotics; Hydration; Rest
+vomiting,none,chills,Migraine,Pain relievers; Avoid bright light; Hydrate
+vomiting,none,sore throat,Flu,Bed rest; Hydration; Paracetamol
+vomiting,none,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+vomiting,none,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,none,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+vomiting,none,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+vomiting,none,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+vomiting,none,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,fever,fever,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,fever,cough,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,fever,headache,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,fever,body pain,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,fever,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,fever,sore throat,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,fever,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,fever,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,fever,nausea,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,fever,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,fever,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,fever,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,cough,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,cough,cough,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,cough,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,cough,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,cough,chills,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,cough,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,cough,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,cough,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,cough,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,cough,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,cough,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,cough,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,headache,fever,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,headache,cough,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,headache,headache,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,headache,body pain,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,headache,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,headache,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,headache,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,headache,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,headache,nausea,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,headache,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,headache,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,headache,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,body pain,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,body pain,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,body pain,headache,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,body pain,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,body pain,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+diarrhea,body pain,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,body pain,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,body pain,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,body pain,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,body pain,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,body pain,diarrhea,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,body pain,none,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,chills,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,chills,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,chills,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,chills,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,chills,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,chills,sore throat,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,chills,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,chills,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,chills,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,chills,vomiting,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,chills,diarrhea,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,chills,none,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,sore throat,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,sore throat,cough,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,sore throat,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,sore throat,body pain,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,sore throat,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,sore throat,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,sore throat,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,sore throat,fatigue,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,sore throat,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,sore throat,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,sore throat,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,sore throat,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+diarrhea,shortness of breath,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,shortness of breath,cough,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,shortness of breath,headache,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,shortness of breath,body pain,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,shortness of breath,chills,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,shortness of breath,sore throat,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,shortness of breath,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,shortness of breath,fatigue,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,shortness of breath,nausea,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,shortness of breath,vomiting,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,shortness of breath,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,shortness of breath,none,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,fatigue,fever,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,fatigue,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,fatigue,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,fatigue,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,fatigue,chills,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,fatigue,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,fatigue,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,fatigue,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,fatigue,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,fatigue,vomiting,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,fatigue,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,fatigue,none,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,nausea,fever,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,nausea,cough,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,nausea,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,nausea,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,nausea,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,nausea,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,nausea,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+diarrhea,nausea,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,nausea,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+diarrhea,nausea,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,nausea,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,nausea,none,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,vomiting,fever,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,vomiting,cough,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,vomiting,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,vomiting,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,vomiting,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+diarrhea,vomiting,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,vomiting,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,vomiting,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,vomiting,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,vomiting,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,vomiting,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,vomiting,none,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,diarrhea,fever,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,diarrhea,cough,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,diarrhea,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,diarrhea,body pain,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,diarrhea,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+diarrhea,diarrhea,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,diarrhea,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+diarrhea,diarrhea,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+diarrhea,diarrhea,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+diarrhea,diarrhea,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+diarrhea,diarrhea,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,diarrhea,none,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,none,fever,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,none,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+diarrhea,none,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,none,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+diarrhea,none,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+diarrhea,none,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,none,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+diarrhea,none,fatigue,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,none,nausea,Asthma,Inhaler; Avoid triggers; Rest
+diarrhea,none,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+diarrhea,none,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+diarrhea,none,none,Pneumonia,Antibiotics; Hydration; Hospital care
+none,fever,fever,COVID-19,Isolation; Hydration; Doctor consultation
+none,fever,cough,Flu,Bed rest; Hydration; Paracetamol
+none,fever,headache,Strep Throat,Antibiotics; Hydration; Rest
+none,fever,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+none,fever,chills,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,fever,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+none,fever,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+none,fever,fatigue,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,fever,nausea,Strep Throat,Antibiotics; Hydration; Rest
+none,fever,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+none,fever,diarrhea,Food Poisoning,IV fluids; Rest; Electrolytes
+none,fever,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,cough,fever,Flu,Bed rest; Hydration; Paracetamol
+none,cough,cough,Pneumonia,Antibiotics; Hydration; Hospital care
+none,cough,headache,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,cough,body pain,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,cough,chills,Food Poisoning,IV fluids; Rest; Electrolytes
+none,cough,sore throat,Pneumonia,Antibiotics; Hydration; Hospital care
+none,cough,shortness of breath,Pneumonia,Antibiotics; Hydration; Hospital care
+none,cough,fatigue,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,cough,nausea,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,cough,vomiting,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,cough,diarrhea,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,cough,none,COVID-19,Isolation; Hydration; Doctor consultation
+none,headache,fever,Pneumonia,Antibiotics; Hydration; Hospital care
+none,headache,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,headache,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+none,headache,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+none,headache,chills,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,headache,sore throat,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,headache,shortness of breath,Food Poisoning,IV fluids; Rest; Electrolytes
+none,headache,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+none,headache,nausea,COVID-19,Isolation; Hydration; Doctor consultation
+none,headache,vomiting,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,headache,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,headache,none,Flu,Bed rest; Hydration; Paracetamol
+none,body pain,fever,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,body pain,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,body pain,headache,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,body pain,body pain,Pneumonia,Antibiotics; Hydration; Hospital care
+none,body pain,chills,Flu,Bed rest; Hydration; Paracetamol
+none,body pain,sore throat,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,body pain,shortness of breath,Typhoid,Antibiotics; Hydration; Consult doctor
+none,body pain,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,body pain,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,body pain,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,body pain,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+none,body pain,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,chills,fever,Gastroenteritis,ORS; Rest; Hydration
+none,chills,cough,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,chills,headache,Typhoid,Antibiotics; Hydration; Consult doctor
+none,chills,body pain,Typhoid,Antibiotics; Hydration; Consult doctor
+none,chills,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,chills,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,chills,shortness of breath,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,chills,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+none,chills,nausea,Typhoid,Antibiotics; Hydration; Consult doctor
+none,chills,vomiting,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,chills,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,chills,none,Flu,Bed rest; Hydration; Paracetamol
+none,sore throat,fever,COVID-19,Isolation; Hydration; Doctor consultation
+none,sore throat,cough,Flu,Bed rest; Hydration; Paracetamol
+none,sore throat,headache,Strep Throat,Antibiotics; Hydration; Rest
+none,sore throat,body pain,Strep Throat,Antibiotics; Hydration; Rest
+none,sore throat,chills,Gastroenteritis,ORS; Rest; Hydration
+none,sore throat,sore throat,COVID-19,Isolation; Hydration; Doctor consultation
+none,sore throat,shortness of breath,Flu,Bed rest; Hydration; Paracetamol
+none,sore throat,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+none,sore throat,nausea,Strep Throat,Antibiotics; Hydration; Rest
+none,sore throat,vomiting,Food Poisoning,IV fluids; Rest; Electrolytes
+none,sore throat,diarrhea,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,sore throat,none,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,shortness of breath,fever,Typhoid,Antibiotics; Hydration; Consult doctor
+none,shortness of breath,cough,Asthma,Inhaler; Avoid triggers; Rest
+none,shortness of breath,headache,Food Poisoning,IV fluids; Rest; Electrolytes
+none,shortness of breath,body pain,Food Poisoning,IV fluids; Rest; Electrolytes
+none,shortness of breath,chills,Gastroenteritis,ORS; Rest; Hydration
+none,shortness of breath,sore throat,Typhoid,Antibiotics; Hydration; Consult doctor
+none,shortness of breath,shortness of breath,Asthma,Inhaler; Avoid triggers; Rest
+none,shortness of breath,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+none,shortness of breath,nausea,Food Poisoning,IV fluids; Rest; Electrolytes
+none,shortness of breath,vomiting,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,shortness of breath,diarrhea,Pneumonia,Antibiotics; Hydration; Hospital care
+none,shortness of breath,none,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,fatigue,fever,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,fatigue,cough,COVID-19,Isolation; Hydration; Doctor consultation
+none,fatigue,headache,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,fatigue,body pain,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,fatigue,chills,Asthma,Inhaler; Avoid triggers; Rest
+none,fatigue,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,fatigue,shortness of breath,COVID-19,Isolation; Hydration; Doctor consultation
+none,fatigue,fatigue,Food Poisoning,IV fluids; Rest; Electrolytes
+none,fatigue,nausea,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,fatigue,vomiting,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,fatigue,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+none,fatigue,none,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,nausea,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,nausea,cough,Strep Throat,Antibiotics; Hydration; Rest
+none,nausea,headache,COVID-19,Isolation; Hydration; Doctor consultation
+none,nausea,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+none,nausea,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,nausea,sore throat,Food Poisoning,IV fluids; Rest; Electrolytes
+none,nausea,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+none,nausea,fatigue,Flu,Bed rest; Hydration; Paracetamol
+none,nausea,nausea,Asthma,Inhaler; Avoid triggers; Rest
+none,nausea,vomiting,COVID-19,Isolation; Hydration; Doctor consultation
+none,nausea,diarrhea,COVID-19,Isolation; Hydration; Doctor consultation
+none,nausea,none,Pneumonia,Antibiotics; Hydration; Hospital care
+none,vomiting,fever,Asthma,Inhaler; Avoid triggers; Rest
+none,vomiting,cough,Gastroenteritis,ORS; Rest; Hydration
+none,vomiting,headache,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,vomiting,body pain,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,vomiting,chills,Pneumonia,Antibiotics; Hydration; Hospital care
+none,vomiting,sore throat,Asthma,Inhaler; Avoid triggers; Rest
+none,vomiting,shortness of breath,Gastroenteritis,ORS; Rest; Hydration
+none,vomiting,fatigue,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,vomiting,nausea,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,vomiting,vomiting,Strep Throat,Antibiotics; Hydration; Rest
+none,vomiting,diarrhea,Migraine,Pain relievers; Avoid bright light; Hydrate
+none,vomiting,none,Typhoid,Antibiotics; Hydration; Consult doctor
+none,diarrhea,fever,Strep Throat,Antibiotics; Hydration; Rest
+none,diarrhea,cough,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,diarrhea,headache,Pneumonia,Antibiotics; Hydration; Hospital care
+none,diarrhea,body pain,Gastroenteritis,ORS; Rest; Hydration
+none,diarrhea,chills,Asthma,Inhaler; Avoid triggers; Rest
+none,diarrhea,sore throat,Bronchitis,Honey; Ginger tea; Steam inhalation
+none,diarrhea,shortness of breath,Common Cold,Rest; Drink warm fluids; Paracetamol
+none,diarrhea,fatigue,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,diarrhea,nausea,Pneumonia,Antibiotics; Hydration; Hospital care
+none,diarrhea,vomiting,Gastroenteritis,ORS; Rest; Hydration
+none,diarrhea,diarrhea,Gastroenteritis,ORS; Rest; Hydration
+none,diarrhea,none,Food Poisoning,IV fluids; Rest; Electrolytes
+none,none,fever,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,none,cough,Food Poisoning,IV fluids; Rest; Electrolytes
+none,none,headache,COVID-19,Isolation; Hydration; Doctor consultation
+none,none,body pain,COVID-19,Isolation; Hydration; Doctor consultation
+none,none,chills,Malaria,Antimalarial drugs; Bed rest; Fluids
+none,none,sore throat,Dengue,Papaya leaf juice; Hydrate; Consult doctor
+none,none,shortness of breath,Strep Throat,Antibiotics; Hydration; Rest
+none,none,fatigue,COVID-19,Isolation; Hydration; Doctor consultation
+none,none,nausea,Asthma,Inhaler; Avoid triggers; Rest
+none,none,vomiting,Typhoid,Antibiotics; Hydration; Consult doctor
+none,none,diarrhea,Common Cold,Rest; Drink warm fluids; Paracetamol
